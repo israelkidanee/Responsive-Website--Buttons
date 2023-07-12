@@ -1,0 +1,17 @@
+body {
+  padding: 10px;
+}
+
+input, textarea {
+  margin: 15px;
+}
+
+button {
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+input, label {
+  display:block;
+  flex-direction: column;
+}
